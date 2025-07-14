@@ -145,3 +145,28 @@ margin-top: 63px;
     border-radius: 6px;
     padding: 15px 35px;
 }
+/* Fotter */
+.sfoters{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF2F1;
+    width: 1212px;
+    height: 455;
+    padding: 50px;
+    margin-top: 70px;
+}
+
+.fotter h3{
+    font-size: 30px;
+    color: #1F1F1F;
+}
+.fotter p{
+    font-size: 16px;
+    color: #707070;
+}
+.fotter input{
+    border: none;
+    padding: 15px 152px;
+    text-align: center;
+}
