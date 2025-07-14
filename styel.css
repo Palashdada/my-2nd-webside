@@ -107,3 +107,41 @@ margin-top: 63px;
 .mc{
     margin-top: 100px;
 }
+/* Shoes */
+.shoes{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+    
+}
+.shoes div img{
+    width: 336px;
+    height: 202px;
+
+}
+.shoes div{
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    padding:25px;
+    box-shadow: 2px 0px 8px 0px rgb(0 0 0 / 15%);
+}
+.shoes div h4{
+    font-size: 24px;
+    color: #1F1F1F;
+}
+.shoes div p{
+    font-size:16px ;
+    color: #4E4E4E;
+}
+.shoes div h3{
+    font-size: 24px;
+    color: #000000;
+}
+.shoes div a button{
+    background-color:#000000 ;
+    color: white;
+    border-radius: 6px;
+    padding: 15px 35px;
+}
